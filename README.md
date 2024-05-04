@@ -7,7 +7,7 @@
 I'm a passionate **Researcher** with experience in **computational science/chemical biology**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **Mamba Architecture**
-- 🔭 Working on: **refactoring [ProteinMPNN](https://github.com/dauparas/ProteinMPNN) and [ThermoMPNN](https://github.com/Kuhlman-Lab/ThermoMPNN) to make it more Modular**
+- 🔭 Working on: **refactoring [ProteinMPNN](https://github.com/dauparas/ProteinMPNN) and [ThermoMPNN](https://github.com/Kuhlman-Lab/ThermoMPNN)**
 - 🌍 Languages: **Hindi, English, Malayalam**
 - 📫 How to reach me: **[email](jeff48690@gmail.com) or [LinkedIn](https://www.linkedin.com/in/jeffy-j-5698a8132/)**
 - ⚡ Fun fact: **I have the same first and last name**
