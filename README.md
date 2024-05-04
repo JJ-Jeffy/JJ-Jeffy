@@ -38,6 +38,6 @@ I'm a passionate **Researcher** with experience in **computational science/chemi
 ## Get in Touch 📬
 
 - **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(https://www.linkedin.com/in/jeffy-j-5698a8132/)
+- **[LinkedIn](https://www.linkedin.com/in/jeffy-j-5698a8132/)**
 
 
