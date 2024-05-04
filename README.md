@@ -1,6 +1,6 @@
 # Hi there, I'm Jeffy! 👋
 
-![Banner Image](https://pixabay.com/photos/chemical-reaction-science-chemistry-4096500/)
+![Banner Image](![image](https://github.com/JJ-Jeffy/JJ-Jeffy/assets/110801113/632a4082-fe9b-4b48-9bae-6631cb2c47be)
 
 ## About Me 🚀
 
