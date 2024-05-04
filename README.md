@@ -1,6 +1,7 @@
 # Hi there, I'm Jeffy! 👋
 
-(![Banner Image](https://github.com/JJ-Jeffy/JJ-Jeffy/assets/110801113/632a4082-fe9b-4b48-9bae-6631cb2c47be)
+![Banner Image](https://github.com/JJ-Jeffy/JJ-Jeffy/assets/110801113/aa7beed8-2326-447e-aa66-0ea2feb04123)
+
 
 ## About Me 🚀
 
