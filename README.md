@@ -1,16 +1,16 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Jeffy! 👋
 
 ![Banner Image](your_banner_image_url_here)
 
 ## About Me 🚀
 
-I'm a passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **Researcher** with experience in **computational science/chemical biology**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **[new technologies or skills you're currently learning]**
-- 🔭 Working on: **[current projects or side-projects]**
-- 🌍 Languages: **[programming languages and human languages you speak]**
-- 📫 How to reach me: **[your email address or other contact information]**
-- ⚡ Fun fact: **[a fun fact about yourself]**
+- 🌱 Currently learning: **Mamba Architecture**
+- 🔭 Working on: **refactoring [ProteinMPNN](https://github.com/dauparas/ProteinMPNN) and [ThermoMPNN](https://github.com/Kuhlman-Lab/ThermoMPNN) to make it more Modular**
+- 🌍 Languages: **Hindi, English, Malayalam**
+- 📫 How to reach me: **[email](jeff48690@gmail.com) or [LinkedIn](https://www.linkedin.com/in/jeffy-j-5698a8132/)**
+- ⚡ Fun fact: **I have the same first and last name**
 
 ## My Skills 🧠
 
