@@ -29,7 +29,7 @@ I'm a passionate **PhD Student** with experience in **computational science/chem
 
 ## Get in Touch 📬
 
-- **[Personal Website / Blog]**(your_website_or_blog_link)
+- **[Instagram](https://www.instagram.com/jeffy_squared/)**
 - **[LinkedIn](https://www.linkedin.com/in/jeffy-j-5698a8132/)**
 
 
